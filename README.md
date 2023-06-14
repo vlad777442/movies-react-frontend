@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Set your BaseURL in the axiosConfig.js file.
+
+[Spring Boot Backend (Click Here)](https://github.com/vlad777442/movies-spring-boot-mongodb-backend)
+
+![Starting](./images/Screenshot_1.jpg)
+![Starting](./images/Screenshot_2.jpg)
+![Starting](./images/Screenshot_3.jpg)
+
 ## Available Scripts
 
 In the project directory, you can run:
